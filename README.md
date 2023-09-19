@@ -46,7 +46,7 @@ $ git clone https://github.com/cv516Buaa/OV-VG
 $ pip install -r requirements.txt
 ```
 ## Checkpoints
-
+* `OV-VG`:  | [Baidu Drive(pw: vibe)](). |  [Google Drive](https://drive.google.com/file/d/1BhD1oWXddr6sb6SJdU0cRIpW91gfeDiU/view?usp=drive_link) |
 
 ## Visualization Results
 ![teaser](./images/visual_results_1.png)
