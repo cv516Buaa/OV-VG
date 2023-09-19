@@ -34,6 +34,7 @@ Open-vocabulary learning has emerged as a cutting-edge research area, particular
 
 ![teaser](./images/method.png)
 
+## Visualization Results
 ![teaser](./images/visual_results_1.png)
 
 ![teaser](./images/visual_results_2.png)
