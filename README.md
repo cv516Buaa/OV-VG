@@ -1,23 +1,22 @@
 <br />
 <p align="center">
   <h1 align="center">OV-VG: A Benchmark for Open-Vocabulary Visual Grounding</h1>
-  <p align="center">ICCVW VLAR 2023 Oral Paper
   <p align="center">
     <br />
-    <strong>Menghao Li</strong></a>
-    ·
     <strong>Chunlei Wang</strong></a>
     ·
     <strong>Wenquan Feng</strong></a>
-    ·
-    <strong>Shuchang Lyu</strong></a>
-    <br />
     ·
     <a href="https://sites.google.com/view/guangliangcheng"><strong>Guangliang Cheng</strong></a>
     ·
     <a href="https://lxtgh.github.io/"><strong>Xiangtai Li</strong></a>
     ·
+    <strong>Shuchang Lyu</strong></a>
+    ·
     <strong>Binghao Liu</strong></a>
+    <br />
+    ·
+    <strong>Lijiang Chen</strong></a>
     ·
     <strong>Qi Zhao</strong></a>
     <br />
@@ -25,8 +24,8 @@
 
 ## Highlight!!!!
 
-**The code will be released.**
+
 
 ## Abstract
 
-Visual Grounding (VG) aims at localizing target objects from an image based on given expressions and has made significant progress with the development of detection and vision transformer. However, existing VG methods tend to generate **false-alarm** objects when presented with inaccurate or irrelevant descriptions, which commonly occur in practical applications. Moreover, existing methods fail to capture fine-grained features, accurate localization, and sufficient context comprehension from the whole image and textual descriptions. To address both issues, we propose an Iterative Robust Visual Grounding **IR-VG** framework with Masked Reference based Centerpoint Supervision (MRCS). The framework introduces iterative multi-level vision-language fusion (IMVF) for better alignment. We use MRCS to ahieve more accurate localization with point-wised feature supervision. Then, to improve the robustness of VG, we also present a multi-stage false-alarm sensitive decoder (MFSD) to prevent the generation of false-alarm objects when presented with inaccurate expressions. Extensive experiments demonstrate that IR-VG achieves new state-of-the-art (SOTA) results, with improvements of 25\% and 10\% compared to existing SOTA approaches on the two newly proposed robust VG datasets. Moreover, the proposed framework is also verified effective on five **regular** VG datasets. Codes and models will be publicly at .
+Open-vocabulary learning has emerged as a cutting-edge research area, particularly in light of the widespread adoption of vision-based foundational models. Its primary objective is to comprehend novel concepts that are not encompassed within a predefined vocabulary. One key facet of this endeavor is Visual Grounding (VG), which entails locating a specific region within an image based on a corresponding language description. While current foundational models excel at various visual language tasks, there's a noticeable absence of models specifically tailored for open-vocabulary visual grounding (OV-VG). This research endeavor introduces novel and challenging OV tasks, namely Open-Vocabulary Visual Grounding (OV-VG) and Open-Vocabulary Phrase Localization (OV-PL). The overarching aim is to establish connections between language descriptions and the localization of novel objects. To facilitate this, we have curated a comprehensive annotated benchmark, encompassing 7,272 OV-VG images (comprising 10,000 instances) and 1,000 OV-PL images. In our pursuit of addressing these challenges, we delved into various baseline methodologies rooted in existing open-vocabulary object detection (OV-D), VG, and phrase localization (PL) frameworks. Surprisingly, we discovered that state-of-the-art (SOTA) methods often falter in diverse scenarios. Consequently, we developed a novel framework that integrates two critical components: Text-Image Query Selection (TIQS) and Language-Guided Feature Attention (LGFA). These modules are designed to bolster the recognition of novel categories and enhance the alignment between visual and linguistic information. Extensive experiments demonstrate the efficacy of our proposed framework, which consistently attains SOTA performance across the OV-VG task. Additionally, ablation studies provide further evidence of the effectiveness of our innovative models.
