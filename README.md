@@ -45,8 +45,14 @@ Open-vocabulary learning has emerged as a cutting-edge research area, particular
 $ git clone https://github.com/cv516Buaa/OV-VG
 $ pip install -r requirements.txt
 ```
+# Checkpoints
+
 
 ## Visualization Results
 ![teaser](./images/visual_results_1.png)
 
 ![teaser](./images/visual_results_2.png)
+
+# Citation
+If you have any question, please discuss with me by sending email to wcl_buaa@buaa.edu.cn
+
