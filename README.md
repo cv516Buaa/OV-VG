@@ -21,6 +21,7 @@
     <strong>Qi Zhao</strong></a>
     <br />
   </p>
+![teaser](./images/problem_setting.png)
 
 ## Highlight!!!!
 
