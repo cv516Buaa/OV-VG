@@ -34,6 +34,12 @@ Open-vocabulary learning has emerged as a cutting-edge research area, particular
 
 ![teaser](./images/method.png)
 
+# TODO
+- [x] Release inference code and demo
+- [x] Release checkpoints
+- [ ] Release DATASET
+- [ ] Release training codes
+
 # Install
 ```bash
 $ git clone https://github.com/cv516Buaa/tph-yolov5
