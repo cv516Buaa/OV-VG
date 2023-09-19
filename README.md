@@ -42,8 +42,7 @@ Open-vocabulary learning has emerged as a cutting-edge research area, particular
 
 # Install
 ```bash
-$ git clone https://github.com/cv516Buaa/tph-yolov5
-$ cd tph-yolov5
+$ git clone https://github.com/cv516Buaa/OV-VG
 $ pip install -r requirements.txt
 ```
 
