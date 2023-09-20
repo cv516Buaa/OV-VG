@@ -26,7 +26,7 @@
 
 ## Highlight!!!!
 
-OV-VG: Open Vocabulary Visual Grounding
+OV-VG: Open-vocabulary Visual Grounding
 
 ## Abstract
 
