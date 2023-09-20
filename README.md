@@ -26,7 +26,7 @@
 
 ## Highlight!!!!
 
-
+OV-VG: Open Vocabulary Visual Grounding
 
 ## Abstract
 
@@ -51,7 +51,7 @@ $ python demo.py
 ## Checkpoints
 * `OV-VG`:  | [Baidu Drive(pw: ovvg)](https://pan.baidu.com/s/1IHWS8_4yzR0SWvBp7qp9xw). |  [Google Drive](https://drive.google.com/file/d/1BhD1oWXddr6sb6SJdU0cRIpW91gfeDiU/view?usp=drive_link) |
 
-## Visualization Results
+## Visualization
 ![teaser](./images/visual_results_1.png)
 
 ![teaser](./images/visual_results_2.png)
