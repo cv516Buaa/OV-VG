@@ -11,7 +11,7 @@
     ·
     <a href="https://lxtgh.github.io/"><strong>Xiangtai Li</strong></a>
     ·
-    <strong>Shuchang Lyu</strong></a>
+    <a href="https://cv-shuchanglyu.github.io/EnHome.html"><strong>Shuchang Lyu</strong></a>
     ·
     <strong>Binghao Liu</strong></a>
     <br />
