@@ -1,4 +1,4 @@
-![image](https://github.com/cv516Buaa/OV-VG/assets/94512783/322e1698-4619-429e-ae35-7c33562b5009)<br />
+
 <p align="center">
   <h1 align="center">OV-VG: A Benchmark for Open-Vocabulary Visual Grounding</h1>
   <p align="center">
