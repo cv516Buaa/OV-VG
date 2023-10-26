@@ -1,4 +1,4 @@
-<br />
+![image](https://github.com/cv516Buaa/OV-VG/assets/94512783/322e1698-4619-429e-ae35-7c33562b5009)<br />
 <p align="center">
   <h1 align="center">OV-VG: A Benchmark for Open-Vocabulary Visual Grounding</h1>
   <p align="center">
@@ -50,6 +50,10 @@ $ python demo.py
 ```
 ## Checkpoints
 * `OV-VG`:  | [Baidu Drive(pw: ovvg)](https://pan.baidu.com/s/1IHWS8_4yzR0SWvBp7qp9xw). |  [Google Drive](https://drive.google.com/file/d/1BhD1oWXddr6sb6SJdU0cRIpW91gfeDiU/view?usp=drive_link) |
+
+## Dataset
+* `OV-VG`:  | [Baidu Drive(pw: ovvg)](https://pan.baidu.com/s/1K42olNe-OOS_crymvISgCg). |  [Google Drive](https://drive.google.com/file/d/1quvv-iqhBVUZlbSjnjiwTI0_IyTzpcQ8/view?usp=drive_link) |
+* `OV-PL`:  | [Baidu Drive(pw: ovvg)](https://pan.baidu.com/s/1K42olNe-OOS_crymvISgCg). |  [Google Drive](https://drive.google.com/file/d/1KUZMiaGEevkROX5nRD3nCYNNtWmU788p/view?usp=drive_link) |
 
 ## Visualization
 ![teaser](./images/visual_results_1.png)
