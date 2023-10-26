@@ -37,7 +37,7 @@ Open-vocabulary learning has emerged as a cutting-edge research area, particular
 ## TODO
 - [x] Release demo
 - [x] Release checkpoints
-- [ ] Release DATASET
+- [x] Release DATASET
 - [ ] Release training and inference codes
 
 ## Install
@@ -58,12 +58,16 @@ $ python demo.py
 
 ## Citation
 
+- https://arxiv.org/abs/2310.14374 
+
+If you have any question, please discuss with me by sending email to wcl_buaa@buaa.edu.cn.
+
+If you find this code useful please cite:
+```
 @article{wang2023ov,
   title={OV-VG: A Benchmark for Open-Vocabulary Visual Grounding},
   author={Wang, Chunlei and Feng, Wenquan and Li, Xiangtai and Cheng, Guangliang and Lyu, Shuchang and Liu, Binghao and Chen, Lijiang and Zhao, Qi},
   journal={arXiv preprint arXiv:2310.14374},
   year={2023}
 }
-
-If you have any question, please discuss with me by sending email to wcl_buaa@buaa.edu.cn
-
+```
